@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/Bookmark-LandPage-React/static/js/main.977d75d3.chunk.js",
+    "main.js.map": "/Bookmark-LandPage-React/static/js/main.977d75d3.chunk.js.map",
+    "runtime-main.js": "/Bookmark-LandPage-React/static/js/runtime-main.f8f24729.js",
+    "runtime-main.js.map": "/Bookmark-LandPage-React/static/js/runtime-main.f8f24729.js.map",
+    "static/js/2.a3f69c5b.chunk.js": "/Bookmark-LandPage-React/static/js/2.a3f69c5b.chunk.js",
+    "static/js/2.a3f69c5b.chunk.js.map": "/Bookmark-LandPage-React/static/js/2.a3f69c5b.chunk.js.map",
+    "index.html": "/Bookmark-LandPage-React/index.html",
+    "precache-manifest.16c489bad80497e77c42e697b4704920.js": "/Bookmark-LandPage-React/precache-manifest.16c489bad80497e77c42e697b4704920.js",
+    "service-worker.js": "/Bookmark-LandPage-React/service-worker.js",
+    "static/js/2.a3f69c5b.chunk.js.LICENSE.txt": "/Bookmark-LandPage-React/static/js/2.a3f69c5b.chunk.js.LICENSE.txt",
+    "static/media/icon-close.svg": "/Bookmark-LandPage-React/static/media/icon-close.8132811b.svg",
+    "static/media/icon-facebook.svg": "/Bookmark-LandPage-React/static/media/icon-facebook.c24c1904.svg",
+    "static/media/icon-hamburger.svg": "/Bookmark-LandPage-React/static/media/icon-hamburger.e3defca1.svg",
+    "static/media/icon-twitter.svg": "/Bookmark-LandPage-React/static/media/icon-twitter.a4daae10.svg",
+    "static/media/illustration-features-tab-1.svg": "/Bookmark-LandPage-React/static/media/illustration-features-tab-1.25a23733.svg",
+    "static/media/illustration-features-tab-2.svg": "/Bookmark-LandPage-React/static/media/illustration-features-tab-2.11b0ec33.svg",
+    "static/media/illustration-features-tab-3.svg": "/Bookmark-LandPage-React/static/media/illustration-features-tab-3.7f696303.svg",
+    "static/media/illustration-hero.svg": "/Bookmark-LandPage-React/static/media/illustration-hero.dfa0cd82.svg",
+    "static/media/logo-bookmark-drawer.svg": "/Bookmark-LandPage-React/static/media/logo-bookmark-drawer.d85f796b.svg",
+    "static/media/logo-bookmark.svg": "/Bookmark-LandPage-React/static/media/logo-bookmark.53989d2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8f24729.js",
+    "static/js/2.a3f69c5b.chunk.js",
+    "static/js/main.977d75d3.chunk.js"
+  ]
+}
